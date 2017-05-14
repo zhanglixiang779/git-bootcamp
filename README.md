@@ -6,4 +6,4 @@ we are about to attemp using the **pull command** in this lecture.
 
 *so let's get started!*
 
-*this is for develop branch only*
+*This is for develop branch only*
